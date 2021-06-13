@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Biaky
+- 👋 Hi, I’m Mohamed
 - 👀 I’m interested in data science, data analysis and engineering
 - 🌱 I’m currently learning python.
 - 💞️ I’m looking to collaborate on data science and data analysis projects.
